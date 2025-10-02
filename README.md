@@ -6,6 +6,10 @@ This repository contains a Dockerfile that builds a WebAssembly version of [Pand
 
 Docker image is available at https://hub.docker.com/r/shenlu89/pandoc-wasm
 
+## Example
+
+A real-world application of this project is https://mathcheap.xyz, which implements converting LaTeX to DOCX documents.
+
 ## License
 
 Licensed under [GPL-2.0-or-later](LICENSE).
