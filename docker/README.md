@@ -1,4 +1,4 @@
-# Pandoc WebAssembly (WASM)
+# Pandoc WASM for Docker
 
 This Docker image, part of the [pandoc-wasm](https://github.com/shenlu89/pandoc-wasm) project, provides a self-contained toolchain for building the WebAssembly (WASM) version of Pandoc, the universal document converter.
 
